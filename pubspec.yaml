@@ -1,15 +1,10 @@
 name: region_codes_app
-description: A sample command-line application.
+description: An simple console app to search region codes by cities
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/evendelger/region_codes_app
 
 environment:
   sdk: ^3.0.5
 
-# Add regular dependencies here.
-dependencies:
-  # path: ^1.8.0
-
 dev_dependencies:
   lints: ^2.0.0
-  test: ^1.21.0
